@@ -1,2 +1,2 @@
 # Intro-to-Github1
-First github assignment
+The script should print "Hello World!" when executed
